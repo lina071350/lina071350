@@ -1,16 +1,20 @@
-### Hi there 👋
+<div align="left">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=97e89c&height=200&section=header&text=Harin's%20github%20&render&fontAlignY=35&fontAlign=15&fontSize=30&fontColor=FFFFFF" />
+</div>
 
-<!--
-**lina071350/lina071350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Stack</h3>
+<p float="left">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></img>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>
+</p>
 
-Here are some ideas to get you started:
+<h3>SNS</h3>
+<a href="https://velog.io/@hrjang/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link="https://velog.io/@hrjang/posts">
+<a href="mailto:hrjang@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=hrjang@gmail.com"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=lina071350&show_icons=true&theme=gotham">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lina071350&layout=compact&theme=gotham" />
